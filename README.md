@@ -30,33 +30,51 @@ MY PORTFOLIO
 
 
 ### Cloud
+
 <h4><font size="+1" face="Tahoma">Cloud:</font></h4>
 <p align="left">
-- [Amazon Web Services](https://aws.amazon.com)
-  ![aws](https://www.logigroup.com/images/Logo_aws.gif)
-- [Microsoft Azure](https://azure.microsoft.com/en-in/)
-  ![azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
-- [Google Cloud Platform](https://cloud.google.com/)
-  ![gcp](https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png)
+  
+<a href="[https://aws.amazon.com](https://aws.amazon.com/)" target="_blank" rel="noreferrer">
+<img src="https://www.logigroup.com/images/Logo_aws.gif" alt="aws" width="100" height="80"/>
+</a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/>
+</a>
+<a href="[https://cloud.google.com](https://cloud.google.com/)" target="_blank" rel="noreferrer">
+<img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp" width="80" height="80"/>
+</a>
+<!-- Add more cloud-related tools here -->
+</p>
 
 ### Scripting
+
 <h4><font size="+1" face="Tahoma">Scripting:</font></h4>
 <p align="left">
-- [Bash](https://www.gnu.org/software/bash/)
-  ![bash](https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png)
-- [Python](https://www.python.org/)
-  ![python](https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp)
-- [Go](https://golang.org/)
-  ![golang](https://perisync.com/images/gocc.gif)
+  
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+<img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="100" height="100"/>
+</a>
+<a href="[https://www.python.org](https://www.python.org/)" target="_blank" rel="noreferrer">
+<img src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp" alt="python" width="100" height="100"/>
+</a>
+<a href="[https://golang.org](https://golang.org/)" target="_blank" rel="noreferrer">
+<img src="https://perisync.com/images/gocc.gif" alt="golang" width="170" height="100"/>
+</a>
+</p>
 
 ### Technologies
+
 <h4><font size="+1" face="Tahoma">Technologies:</font></h4>
 <p align="left">
-- [Django](https://www.djangoproject.com/)
-  ![django](https://cdn.worldvectorlogo.com/logos/django.svg)
-- [Docker](https://www.docker.com/)
-  ![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
-- [Kubernetes](https://kubernetes.io/)
-  ![kubernetes](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png)
+  
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/>
+</a>
 
 
