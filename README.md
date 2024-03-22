@@ -62,6 +62,10 @@ MY PORTFOLIO
 </a>
 </p>
 
+![image](https://github.com/LOLO-MKHWANAZI/LOLO-MKHWANAZI/assets/163551783/62cd2a9f-d528-4d12-b88c-9602e367fb8d)
+</p
+
+
 ### Technologies
 
 <h4><font size="+1" face="Tahoma">Technologies:</font></h4>
@@ -76,5 +80,6 @@ MY PORTFOLIO
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/>
 </a>
+
 
 
