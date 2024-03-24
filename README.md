@@ -9,7 +9,7 @@ MY PORTFOLIO
 
 <!-- Stats and GitHub activity -->
 ## GitHub Activity
-![Profile views](https://komarev.com/ghpvc/?username=n4si&label=Profile+views&color=0e75b6&style=flat)
+
 
 
 <!-- Header Section -->
